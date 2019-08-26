@@ -1,0 +1,21 @@
+.container {
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 90px;
+    border: 2px solid rgb(11, 109, 238);
+    display: flex;
+    padding: 19px;
+    background: rgb(61, 137, 139);
+    border-radius: 10px;
+}
+.col-3 {
+    width: 20%;
+    padding: 30px;
+    background: rgb(101, 10, 247);
+    margin-left: 20px;
+    box-shadow: 0 0 5px 5px rgb(0, 0, 0, 0.2);
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
